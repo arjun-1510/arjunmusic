@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arjunmusic/static/css/main.5063dfff.chunk.css",
+    "main.js": "/arjunmusic/static/js/main.517554a5.chunk.js",
+    "main.js.map": "/arjunmusic/static/js/main.517554a5.chunk.js.map",
+    "runtime-main.js": "/arjunmusic/static/js/runtime-main.d623e5da.js",
+    "runtime-main.js.map": "/arjunmusic/static/js/runtime-main.d623e5da.js.map",
+    "static/js/2.970a2fa0.chunk.js": "/arjunmusic/static/js/2.970a2fa0.chunk.js",
+    "static/js/2.970a2fa0.chunk.js.map": "/arjunmusic/static/js/2.970a2fa0.chunk.js.map",
+    "static/js/3.3b73e1bd.chunk.js": "/arjunmusic/static/js/3.3b73e1bd.chunk.js",
+    "static/js/3.3b73e1bd.chunk.js.map": "/arjunmusic/static/js/3.3b73e1bd.chunk.js.map",
+    "index.html": "/arjunmusic/index.html",
+    "static/css/main.5063dfff.chunk.css.map": "/arjunmusic/static/css/main.5063dfff.chunk.css.map",
+    "static/js/2.970a2fa0.chunk.js.LICENSE.txt": "/arjunmusic/static/js/2.970a2fa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d623e5da.js",
+    "static/js/2.970a2fa0.chunk.js",
+    "static/css/main.5063dfff.chunk.css",
+    "static/js/main.517554a5.chunk.js"
+  ]
+}
